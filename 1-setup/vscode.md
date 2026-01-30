@@ -19,7 +19,7 @@ Use esta opção se você:
 - Firewall liberado para seu IP
 
 Se ainda não criou o banco:
-→ volte para [1-setup/README.md](./README.md)
+→ volte para [Setup Ambiente Azure SQL](./README.md)
 
 ---
 

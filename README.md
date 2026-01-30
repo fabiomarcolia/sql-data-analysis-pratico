@@ -72,7 +72,7 @@ Tudo isso com:
 ## 🔊  Bora para o Treinamento
 
 ## 1) preparando o ambiente
-1- Siga o guia completo em: ![**1-setup/README.md**](1-setup/README.md)
+1- Siga o guia completo em: [Setup Ambiente Azure SQL](1-setup/README.md)
 
 2- Depois volte aqui e siga a trilha de estudos.
 
@@ -83,7 +83,7 @@ Tudo isso com:
 ## 2) Modelo de Dados (AdventureWorksLT)
 A base do treinamento gira em torno do schema **SalesLT** (vendas, clientes, produtos, pedidos e endereços).
 
-![Modelo de Dados AdventureWorksLT](assets/images/modelo-dados-adventureworks.png)
+![Modelo de Dados e relacionamentos](1-setup/assets/images/modelo-dados-adventureworks.png)
 
 ↳ Dica: Antes de fazer JOINs, entenda estas tabelas:
 - SalesLT.Customer
@@ -147,15 +147,12 @@ Com Relatórios sugeridos para entrega de valor ao negócio.
 ## Como usar
 
 - 1-Clone o repositório: Clone este repositório do projeto do GitHub.
-- 2- Configure o banco de dados: [Setup DB.](1-setup/README.md) Execute os scripts SQL fornecidos [Tutorial SQL](2-scripts-tutorial-sql-guiado). 
+- 2- Configure o banco de dados: [Setup DB](1-setup/README.md) Execute os scripts SQL fornecidos [Tutorial SQL](2-scripts-tutorial-sql-guiado). 
 - 3- Realize o Laboratório: [Laboratório SQL Problemas Reais](4-data-analysis-sql/README.md)
 - 4 -
 - 5- Explore e modifique: Fique a vontade para modificar as consultas e explorar diferentes perspectivas do banco de dados e responder perguntas de negócios.
 
 ## Outros recursos para aprender SQL 
-
-### Treinamento T-SQL Oficial
- https://learn.microsoft.com/pt-br/training/modules/get-started-transact-sql-programming/ 
 
 ### Sites (Ordem de recomendação)
 - https://www.codecademy.com/learn/learn-sql 
