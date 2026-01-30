@@ -15,7 +15,7 @@ Este repositório foi pensado para:
 - iniciantes em SQL
 - profissionais em transição de carreira
 - analistas que querem consolidar fundamentos
-- preparação para entrevistas técnicas
+- preparação para entrevistas técnicascls
 
 Ensinar SQL de forma progressiva:
 
@@ -153,6 +153,9 @@ Com Relatórios sugeridos para entrega de valor ao negócio.
 - 5- Explore e modifique: Fique a vontade para modificar as consultas e explorar diferentes perspectivas do banco de dados e responder perguntas de negócios.
 
 ## Outros recursos para aprender SQL 
+
+### Treinamento T-SQL Oficial
+ https://learn.microsoft.com/pt-br/training/modules/get-started-transact-sql-programming/ 
 
 ### Sites (Ordem de recomendação)
 - https://www.codecademy.com/learn/learn-sql 
